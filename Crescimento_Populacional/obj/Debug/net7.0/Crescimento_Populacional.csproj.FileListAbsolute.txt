@@ -1,0 +1,14 @@
+C:\VISUALCODE\Crescimento_Populacional\bin\Debug\net7.0\Crescimento_Populacional.exe
+C:\VISUALCODE\Crescimento_Populacional\bin\Debug\net7.0\Crescimento_Populacional.deps.json
+C:\VISUALCODE\Crescimento_Populacional\bin\Debug\net7.0\Crescimento_Populacional.runtimeconfig.json
+C:\VISUALCODE\Crescimento_Populacional\bin\Debug\net7.0\Crescimento_Populacional.dll
+C:\VISUALCODE\Crescimento_Populacional\bin\Debug\net7.0\Crescimento_Populacional.pdb
+C:\VISUALCODE\Crescimento_Populacional\obj\Debug\net7.0\Crescimento_Populacional.GeneratedMSBuildEditorConfig.editorconfig
+C:\VISUALCODE\Crescimento_Populacional\obj\Debug\net7.0\Crescimento_Populacional.AssemblyInfoInputs.cache
+C:\VISUALCODE\Crescimento_Populacional\obj\Debug\net7.0\Crescimento_Populacional.AssemblyInfo.cs
+C:\VISUALCODE\Crescimento_Populacional\obj\Debug\net7.0\Crescimento_Populacional.csproj.CoreCompileInputs.cache
+C:\VISUALCODE\Crescimento_Populacional\obj\Debug\net7.0\Crescimento_Populacional.dll
+C:\VISUALCODE\Crescimento_Populacional\obj\Debug\net7.0\refint\Crescimento_Populacional.dll
+C:\VISUALCODE\Crescimento_Populacional\obj\Debug\net7.0\Crescimento_Populacional.pdb
+C:\VISUALCODE\Crescimento_Populacional\obj\Debug\net7.0\Crescimento_Populacional.genruntimeconfig.cache
+C:\VISUALCODE\Crescimento_Populacional\obj\Debug\net7.0\ref\Crescimento_Populacional.dll
